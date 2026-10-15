@@ -10,3 +10,8 @@
 ## Учебная группа
 
 **БМБ2410**
+
+## Файлы проекта
+
+- `netflix_customer_churn.csv` — датасет для проекта
+- `netflix_customer_churn_analysis.ipynb` — файл программы проекта
