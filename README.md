@@ -14,4 +14,4 @@
 ## Файлы проекта
 
 - `netflix_customer_churn.csv` — датасет для проекта
-- `netflix_customer_churn_analysis.ipynb` — файл программы проекта
+- `ANDANPROJ_final2.ipynb` — файл программы проекта
